@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ... I love plants, art and music
 
 <!---
-edejesus77/edejesus77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+edejesus77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
